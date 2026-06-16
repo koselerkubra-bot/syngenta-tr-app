@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Syngenta leaf icon in Cropwise Green -->
+    <path
+        android:fillColor="#73dc78"
+        android:pathData="M60,20 C40,25 30,45 35,65 C38,75 45,82 55,85 C58,86 62,86 65,85 C75,82 82,75 85,65 C90,45 80,25 60,20 Z" />
+    
+    <!-- Leaf vein -->
+    <path
+        android:fillColor="#00004b"
+        android:fillAlpha="0.3"
+        android:pathData="M60,30 C55,45 52,60 55,75 M48,50 L60,42 M72,50 L60,42" 
+        android:strokeColor="#00004b"
+        android:strokeWidth="1.5"
+        android:strokeAlpha="0.3" />
+        
+    <!-- Text: "S" initial -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,95 C53,92 56,90 60,90 C64,90 67,92 67,95 C67,98 64,100 60,100 C56,100 53,98 53,95 Z" />
+</vector>
