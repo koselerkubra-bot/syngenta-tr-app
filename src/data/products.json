@@ -5,12 +5,30 @@
     "category": "Fungisit",
     "activeIngredient": "125 g/L Azoxystrobin + 125 g/L Difenoconazole",
     "formulation": "SC (Süspansiyon Konsantre)",
-    "crops": ["Buğday", "Arpa", "Domates", "Patates", "Üzüm", "Elma"],
-    "targets": ["Külleme", "Pas", "Septoria yaprak lekesi", "Mildiyö", "Alternaria"],
+    "crops": [
+      "Buğday",
+      "Arpa",
+      "Domates",
+      "Patates",
+      "Üzüm",
+      "Elma"
+    ],
+    "targets": [
+      "Külleme",
+      "Pas",
+      "Septoria yaprak lekesi",
+      "Mildiyö",
+      "Alternaria"
+    ],
     "dose": "50-100 ml/da",
     "phi": "14 gün",
     "description": "Geniş spektrumlu, sistemik ve koruyucu etkili fungisit. Hem önleyici hem tedavi edici olarak kullanılır.",
-    "features": ["Çift etki mekanizması", "Sistemik hareket", "Yeşil etki (GreenEffect)", "Uzun süreli koruma"]
+    "features": [
+      "Çift etki mekanizması",
+      "Sistemik hareket",
+      "Yeşil etki (GreenEffect)",
+      "Uzun süreli koruma"
+    ]
   },
   {
     "id": "p-002",
@@ -18,12 +36,27 @@
     "category": "Fungisit",
     "activeIngredient": "200 g/L Azoxystrobin + 80 g/L Cyproconazole",
     "formulation": "SC (Süspansiyon Konsantre)",
-    "crops": ["Buğday", "Arpa", "Mısır", "Ayçiçeği"],
-    "targets": ["Pas", "Septoria", "Külleme", "Helminthosporium"],
+    "crops": [
+      "Buğday",
+      "Arpa",
+      "Mısır",
+      "Ayçiçeği"
+    ],
+    "targets": [
+      "Pas",
+      "Septoria",
+      "Külleme",
+      "Helminthosporium"
+    ],
     "dose": "50-75 ml/da",
     "phi": "35 gün",
     "description": "Hububat ve endüstriyel bitkilerde geniş spektrumlu hastalık kontrolü sağlar.",
-    "features": ["Uzun süreli yaprak sağlığı", "Verim artışı", "Stres toleransı", "Esnek uygulama zamanı"]
+    "features": [
+      "Uzun süreli yaprak sağlığı",
+      "Verim artışı",
+      "Stres toleransı",
+      "Esnek uygulama zamanı"
+    ]
   },
   {
     "id": "p-003",
@@ -31,12 +64,27 @@
     "category": "İnsektisit",
     "activeIngredient": "100 g/L Chlorantraniliprole + 50 g/L Lambda-cyhalothrin",
     "formulation": "ZC (Mikrokapsül Süspansiyon Konsantre)",
-    "crops": ["Domates", "Pamuk", "Mısır", "Üzüm"],
-    "targets": ["Yeşilkurt", "Salkım güvesi", "Yaprak kurtları", "Pamuk yaprak kurdu"],
+    "crops": [
+      "Domates",
+      "Pamuk",
+      "Mısır",
+      "Üzüm"
+    ],
+    "targets": [
+      "Yeşilkurt",
+      "Salkım güvesi",
+      "Yaprak kurtları",
+      "Pamuk yaprak kurdu"
+    ],
     "dose": "20-40 ml/da",
     "phi": "7 gün",
     "description": "Çift etki mekanizmalı insektisit. Hızlı nakavt etkisi ile uzun süreli korumayı bir arada sunar.",
-    "features": ["Hızlı etki", "Uzun residüel aktivite", "Zeon teknolojisi", "Düşük doz"]
+    "features": [
+      "Hızlı etki",
+      "Uzun residüel aktivite",
+      "Zeon teknolojisi",
+      "Düşük doz"
+    ]
   },
   {
     "id": "p-004",
@@ -44,12 +92,28 @@
     "category": "İnsektisit",
     "activeIngredient": "250 g/kg Thiamethoxam",
     "formulation": "WG (Suda Dağılabilen Granül)",
-    "crops": ["Domates", "Hıyar", "Patates", "Turunçgil", "Elma"],
-    "targets": ["Yaprakbiti", "Beyazsinek", "Trips", "Patates böceği"],
+    "crops": [
+      "Domates",
+      "Hıyar",
+      "Patates",
+      "Turunçgil",
+      "Elma"
+    ],
+    "targets": [
+      "Yaprakbiti",
+      "Beyazsinek",
+      "Trips",
+      "Patates böceği"
+    ],
     "dose": "4-8 g/da",
     "phi": "3-14 gün",
     "description": "Emici ve bazı çiğneyici zararlılara karşı etkili sistemik insektisit. 24 saat içinde zararlıları kontrol eder.",
-    "features": ["Sistemik etki", "Hızlı emilim", "Topraktan ve yapraktan uygulama", "Geniş zararlı spektrumu"]
+    "features": [
+      "Sistemik etki",
+      "Hızlı emilim",
+      "Topraktan ve yapraktan uygulama",
+      "Geniş zararlı spektrumu"
+    ]
   },
   {
     "id": "p-005",
@@ -57,12 +121,25 @@
     "category": "Herbisit",
     "activeIngredient": "50 g/L Pinoxaden + 12.5 g/L Cloquintocet-mexyl (safener)",
     "formulation": "EC (Emülsiyon Konsantre)",
-    "crops": ["Buğday", "Arpa"],
-    "targets": ["Yabani yulaf", "Tilki kuyruğu", "Çayır salkım otu", "Dar yapraklı yabancı otlar"],
+    "crops": [
+      "Buğday",
+      "Arpa"
+    ],
+    "targets": [
+      "Yabani yulaf",
+      "Tilki kuyruğu",
+      "Çayır salkım otu",
+      "Dar yapraklı yabancı otlar"
+    ],
     "dose": "45-90 ml/da",
     "phi": "Hasat öncesi kısıtlama yok",
     "description": "Hububatta dar yapraklı yabancı otlara karşı seçici post-emergence herbisit.",
-    "features": ["Seçici etki", "Safener korumalı", "Geniş uygulama penceresi", "Tank-mix uyumlu"]
+    "features": [
+      "Seçici etki",
+      "Safener korumalı",
+      "Geniş uygulama penceresi",
+      "Tank-mix uyumlu"
+    ]
   },
   {
     "id": "p-006",
@@ -70,12 +147,24 @@
     "category": "Herbisit",
     "activeIngredient": "33.30 g/L Pinoxaden + 8.33 g/L Pyroxsulam + 8.33 g/L Cloquintocet-mexyl",
     "formulation": "EC (Emülsiyon Konsantre)",
-    "crops": ["Buğday"],
-    "targets": ["Yabani yulaf", "Tilki kuyruğu", "Geniş yapraklı yabancı otlar", "Dar yapraklı yabancı otlar"],
+    "crops": [
+      "Buğday"
+    ],
+    "targets": [
+      "Yabani yulaf",
+      "Tilki kuyruğu",
+      "Geniş yapraklı yabancı otlar",
+      "Dar yapraklı yabancı otlar"
+    ],
     "dose": "120-180 ml/da",
     "phi": "Hasat öncesi kısıtlama yok",
     "description": "Buğdayda hem dar hem geniş yapraklı yabancı otlara karşı tek geçişte çözüm sunan herbisit.",
-    "features": ["Tek geçişte komple çözüm", "Çift etki mekanizması", "Safener korumalı", "Yüksek etkinlik"]
+    "features": [
+      "Tek geçişte komple çözüm",
+      "Çift etki mekanizması",
+      "Safener korumalı",
+      "Yüksek etkinlik"
+    ]
   },
   {
     "id": "p-007",
@@ -83,12 +172,28 @@
     "category": "İnsektisit",
     "activeIngredient": "45 g/L Chlorantraniliprole + 18 g/L Abamectin",
     "formulation": "SC (Süspansiyon Konsantre)",
-    "crops": ["Domates", "Hıyar", "Elma", "Turunçgil", "Üzüm"],
-    "targets": ["Tuta absoluta", "Kırmızı örümcek", "Yaprak galerileri", "Salkım güvesi"],
+    "crops": [
+      "Domates",
+      "Hıyar",
+      "Elma",
+      "Turunçgil",
+      "Üzüm"
+    ],
+    "targets": [
+      "Tuta absoluta",
+      "Kırmızı örümcek",
+      "Yaprak galerileri",
+      "Salkım güvesi"
+    ],
     "dose": "60-80 ml/da",
     "phi": "3-7 gün",
     "description": "Sebze ve meyvelerde geniş spektrumlu zararlı kontrolü. Özellikle Tuta absoluta'ya karşı etkili.",
-    "features": ["Translaminar etki", "Uzun residüel aktivite", "Düşük doz yüksek etki", "Entegre mücadeleye uygun"]
+    "features": [
+      "Translaminar etki",
+      "Uzun residüel aktivite",
+      "Düşük doz yüksek etki",
+      "Entegre mücadeleye uygun"
+    ]
   },
   {
     "id": "p-008",
@@ -96,12 +201,26 @@
     "category": "Fungisit",
     "activeIngredient": "250 g/L Mandipropamid",
     "formulation": "SC (Süspansiyon Konsantre)",
-    "crops": ["Patates", "Domates", "Hıyar", "Üzüm"],
-    "targets": ["Mildiyö", "Geç yanıklık (Phytophthora)", "Downy mildew"],
+    "crops": [
+      "Patates",
+      "Domates",
+      "Hıyar",
+      "Üzüm"
+    ],
+    "targets": [
+      "Mildiyö",
+      "Geç yanıklık (Phytophthora)",
+      "Downy mildew"
+    ],
     "dose": "50-60 ml/da",
     "phi": "3-7 gün",
     "description": "Yağmura dayanıklı, koruyucu etkili fungisit. Yaprak yüzeyine bağlanarak uzun süreli koruma sağlar.",
-    "features": ["Yağmura dayanıklı", "Yaprak bağlama teknolojisi", "Koruyucu etki", "Kısa PHI"]
+    "features": [
+      "Yağmura dayanıklı",
+      "Yaprak bağlama teknolojisi",
+      "Koruyucu etki",
+      "Kısa PHI"
+    ]
   },
   {
     "id": "p-009",
@@ -109,12 +228,30 @@
     "category": "Fungisit",
     "activeIngredient": "250 g/L Difenoconazole",
     "formulation": "EC (Emülsiyon Konsantre)",
-    "crops": ["Elma", "Üzüm", "Domates", "Buğday", "Kayısı", "Kiraz"],
-    "targets": ["Karaleke", "Külleme", "Yaprak lekesi", "Pas", "Monilya"],
+    "crops": [
+      "Elma",
+      "Üzüm",
+      "Domates",
+      "Buğday",
+      "Kayısı",
+      "Kiraz"
+    ],
+    "targets": [
+      "Karaleke",
+      "Külleme",
+      "Yaprak lekesi",
+      "Pas",
+      "Monilya"
+    ],
     "dose": "20-50 ml/da",
     "phi": "14 gün",
     "description": "Sistemik triazol fungisit. Hem koruyucu hem tedavi edici etki gösterir.",
-    "features": ["Sistemik hareket", "Tedavi edici etki", "Geniş hastalık spektrumu", "Esnek uygulama"]
+    "features": [
+      "Sistemik hareket",
+      "Tedavi edici etki",
+      "Geniş hastalık spektrumu",
+      "Esnek uygulama"
+    ]
   },
   {
     "id": "p-010",
@@ -122,12 +259,30 @@
     "category": "İnsektisit",
     "activeIngredient": "50 g/L Lambda-cyhalothrin",
     "formulation": "CS (Kapsül Süspansiyon)",
-    "crops": ["Buğday", "Pamuk", "Mısır", "Domates", "Patates", "Ayçiçeği"],
-    "targets": ["Süne", "Kımıl", "Yaprakbiti", "Yeşilkurt", "Yaprak kurtları"],
+    "crops": [
+      "Buğday",
+      "Pamuk",
+      "Mısır",
+      "Domates",
+      "Patates",
+      "Ayçiçeği"
+    ],
+    "targets": [
+      "Süne",
+      "Kımıl",
+      "Yaprakbiti",
+      "Yeşilkurt",
+      "Yaprak kurtları"
+    ],
     "dose": "15-25 ml/da",
     "phi": "7-14 gün",
     "description": "Zeon mikrokapsül teknolojisi ile uzun süreli zararlı kontrolü. Geniş zararlı spektrumu.",
-    "features": ["Zeon teknolojisi", "Uzun residüel etki", "Hızlı nakavt", "Düşük doz"]
+    "features": [
+      "Zeon teknolojisi",
+      "Uzun residüel etki",
+      "Hızlı nakavt",
+      "Düşük doz"
+    ]
   },
   {
     "id": "p-011",
@@ -135,12 +290,23 @@
     "category": "Herbisit",
     "activeIngredient": "50 g/L Imazamox + 12.5 g/L Cloquintocet-mexyl",
     "formulation": "SL (Çözünür Konsantre)",
-    "crops": ["Ayçiçeği"],
-    "targets": ["Canavar otu", "Geniş yapraklı yabancı otlar", "Dar yapraklı yabancı otlar"],
+    "crops": [
+      "Ayçiçeği"
+    ],
+    "targets": [
+      "Canavar otu",
+      "Geniş yapraklı yabancı otlar",
+      "Dar yapraklı yabancı otlar"
+    ],
     "dose": "120-150 ml/da",
     "phi": "Hasat öncesi kısıtlama yok",
     "description": "Clearfield Plus ayçiçeği çeşitlerinde canavar otu ve yabancı otlara karşı etkili herbisit.",
-    "features": ["Canavar otu kontrolü", "Post-emergence uygulama", "Clearfield teknolojisi", "Geniş spektrum"]
+    "features": [
+      "Canavar otu kontrolü",
+      "Post-emergence uygulama",
+      "Clearfield teknolojisi",
+      "Geniş spektrum"
+    ]
   },
   {
     "id": "p-012",
@@ -148,12 +314,23 @@
     "category": "Herbisit",
     "activeIngredient": "200 g/L Pretilachlor + 120 g/L Pyribenzoxim",
     "formulation": "EC (Emülsiyon Konsantre)",
-    "crops": ["Çeltik"],
-    "targets": ["Dar yapraklı yabancı otlar", "Geniş yapraklı yabancı otlar", "Topalak"],
+    "crops": [
+      "Çeltik"
+    ],
+    "targets": [
+      "Dar yapraklı yabancı otlar",
+      "Geniş yapraklı yabancı otlar",
+      "Topalak"
+    ],
     "dose": "150-200 ml/da",
     "phi": "60 gün",
     "description": "Çeltik tarlalarında geniş spektrumlu yabancı ot kontrolü sağlayan herbisit.",
-    "features": ["Çift etki mekanizması", "Uzun süreli toprak aktivitesi", "Hem pre hem post-emergence", "Güvenli"]
+    "features": [
+      "Çift etki mekanizması",
+      "Uzun süreli toprak aktivitesi",
+      "Hem pre hem post-emergence",
+      "Güvenli"
+    ]
   },
   {
     "id": "p-013",
@@ -161,12 +338,26 @@
     "category": "Fungisit",
     "activeIngredient": "125 g/L Azoxystrobin + 50 g/L Benzovindiflupyr",
     "formulation": "SC (Süspansiyon Konsantre)",
-    "crops": ["Buğday", "Arpa", "Mısır"],
-    "targets": ["Pas", "Septoria", "Fusarium", "Helminthosporium"],
+    "crops": [
+      "Buğday",
+      "Arpa",
+      "Mısır"
+    ],
+    "targets": [
+      "Pas",
+      "Septoria",
+      "Fusarium",
+      "Helminthosporium"
+    ],
     "dose": "50-75 ml/da",
     "phi": "35 gün",
     "description": "Yeni nesil SDHI + Strobilurin kombinasyonu. Üstün hastalık kontrolü ve bitki sağlığı etkisi.",
-    "features": ["SDHI teknolojisi", "Güçlü bitki sağlığı etkisi", "Verim artışı", "Uzun süreli koruma"]
+    "features": [
+      "SDHI teknolojisi",
+      "Güçlü bitki sağlığı etkisi",
+      "Verim artışı",
+      "Uzun süreli koruma"
+    ]
   },
   {
     "id": "p-014",
@@ -174,12 +365,27 @@
     "category": "İnsektisit",
     "activeIngredient": "100 g/L Cyantraniliprole + 50 g/L Lambda-cyhalothrin",
     "formulation": "SE (Suspo-emülsiyon)",
-    "crops": ["Domates", "Hıyar", "Patates", "Pamuk"],
-    "targets": ["Tuta absoluta", "Beyazsinek", "Trips", "Yaprak kurtları"],
+    "crops": [
+      "Domates",
+      "Hıyar",
+      "Patates",
+      "Pamuk"
+    ],
+    "targets": [
+      "Tuta absoluta",
+      "Beyazsinek",
+      "Trips",
+      "Yaprak kurtları"
+    ],
     "dose": "30-50 ml/da",
     "phi": "3 gün",
     "description": "Yeni nesil insektisit. Hem emici hem çiğneyici zararlılara karşı etkili çift mekanizma.",
-    "features": ["Çift etki mekanizması", "Kısa PHI", "Taze meyve-sebzede güvenli", "Hızlı ve uzun süreli etki"]
+    "features": [
+      "Çift etki mekanizması",
+      "Kısa PHI",
+      "Taze meyve-sebzede güvenli",
+      "Hızlı ve uzun süreli etki"
+    ]
   },
   {
     "id": "p-015",
@@ -187,12 +393,26 @@
     "category": "Fungisit",
     "activeIngredient": "25 g/L Oxathiapiprolin + 250 g/L Mefenoxam",
     "formulation": "SE (Suspo-emülsiyon)",
-    "crops": ["Patates", "Domates", "Hıyar"],
-    "targets": ["Phytophthora", "Pythium", "Mildiyö", "Geç yanıklık"],
+    "crops": [
+      "Patates",
+      "Domates",
+      "Hıyar"
+    ],
+    "targets": [
+      "Phytophthora",
+      "Pythium",
+      "Mildiyö",
+      "Geç yanıklık"
+    ],
     "dose": "50-80 ml/da",
     "phi": "7 gün",
     "description": "Oomycete hastalıklara karşı endüstrinin en güçlü koruyucu fungisiti. Yeni etki mekanizması.",
-    "features": ["Yeni etki mekanizması", "En güçlü Phytophthora kontrolü", "Sistemik hareket", "Düşük doz"]
+    "features": [
+      "Yeni etki mekanizması",
+      "En güçlü Phytophthora kontrolü",
+      "Sistemik hareket",
+      "Düşük doz"
+    ]
   },
   {
     "id": "p-016",
@@ -200,12 +420,27 @@
     "category": "İnsektisit",
     "activeIngredient": "18 g/L Abamectin",
     "formulation": "EC (Emülsiyon Konsantre)",
-    "crops": ["Domates", "Hıyar", "Turunçgil", "Elma", "Üzüm"],
-    "targets": ["Kırmızı örümcek", "Pas akarı", "Yaprak galerileri"],
+    "crops": [
+      "Domates",
+      "Hıyar",
+      "Turunçgil",
+      "Elma",
+      "Üzüm"
+    ],
+    "targets": [
+      "Kırmızı örümcek",
+      "Pas akarı",
+      "Yaprak galerileri"
+    ],
     "dose": "50-75 ml/da",
     "phi": "7 gün",
     "description": "Akar ve yaprak galeri sineklerine karşı translaminar etkili insektisit-akarisit.",
-    "features": ["Translaminar etki", "Akar ve galeri sineği kontrolü", "Hızlı etki", "IPM uyumlu"]
+    "features": [
+      "Translaminar etki",
+      "Akar ve galeri sineği kontrolü",
+      "Hızlı etki",
+      "IPM uyumlu"
+    ]
   },
   {
     "id": "p-017",
@@ -213,12 +448,23 @@
     "category": "Fungisit",
     "activeIngredient": "%25 Mandipropamid + %24 Zoxamide",
     "formulation": "WG (Suda Dağılabilen Granül)",
-    "crops": ["Patates", "Domates"],
-    "targets": ["Mildiyö", "Geç yanıklık"],
+    "crops": [
+      "Patates",
+      "Domates"
+    ],
+    "targets": [
+      "Mildiyö",
+      "Geç yanıklık"
+    ],
     "dose": "40-50 g/da",
     "phi": "7 gün",
     "description": "Patates ve domateste mildiyö ve geç yanıklığa karşı çift etkili koruyucu fungisit.",
-    "features": ["Çift etki mekanizması", "Yağmura dayanıklı", "Koruyucu etki", "Rezistans yönetimi"]
+    "features": [
+      "Çift etki mekanizması",
+      "Yağmura dayanıklı",
+      "Koruyucu etki",
+      "Rezistans yönetimi"
+    ]
   },
   {
     "id": "p-018",
@@ -226,12 +472,26 @@
     "category": "Biyoinsektisit",
     "activeIngredient": "Beauveria bassiana strain PPRI 5339",
     "formulation": "WG (Suda Dağılabilen Granül)",
-    "crops": ["Domates", "Hıyar", "Üzüm", "Turunçgil"],
-    "targets": ["Beyazsinek", "Trips", "Kırmızı örümcek"],
+    "crops": [
+      "Domates",
+      "Hıyar",
+      "Üzüm",
+      "Turunçgil"
+    ],
+    "targets": [
+      "Beyazsinek",
+      "Trips",
+      "Kırmızı örümcek"
+    ],
     "dose": "100-200 g/da",
     "phi": "0 gün",
     "description": "Biyolojik insektisit. Doğal fungal etken madde ile zararlı kontrolü. Organik tarıma uygun.",
-    "features": ["Organik tarıma uygun", "0 gün PHI", "Residü bırakmaz", "IPM programına tam uyum"]
+    "features": [
+      "Organik tarıma uygun",
+      "0 gün PHI",
+      "Residü bırakmaz",
+      "IPM programına tam uyum"
+    ]
   },
   {
     "id": "p-019",
@@ -239,12 +499,26 @@
     "category": "Tohum İlacı",
     "activeIngredient": "350 g Metalaxyl-M",
     "formulation": "ES (Emülsiyon Sıvı Tohum İlacı)",
-    "crops": ["Ayçiçeği", "Mısır", "Soya"],
-    "targets": ["Mildiyö", "Pythium", "Phytophthora", "Fide çökerteni"],
+    "crops": [
+      "Ayçiçeği",
+      "Mısır",
+      "Soya"
+    ],
+    "targets": [
+      "Mildiyö",
+      "Pythium",
+      "Phytophthora",
+      "Fide çökerteni"
+    ],
     "dose": "Tohum başına 100-200 ml/100kg",
     "phi": "-",
     "description": "Tohumdan kaynaklanan ve toprak kökenli hastalıklara karşı sistemik tohum ilacı.",
-    "features": ["Sistemik koruma", "Fide döneminde güvenlik", "Çıkış garantisi", "Uzun süreli etki"]
+    "features": [
+      "Sistemik koruma",
+      "Fide döneminde güvenlik",
+      "Çıkış garantisi",
+      "Uzun süreli etki"
+    ]
   },
   {
     "id": "p-020",
@@ -252,12 +526,28 @@
     "category": "Tohum İlacı",
     "activeIngredient": "350 g/L Thiamethoxam",
     "formulation": "FS (Tohum İlacı Süspansiyon)",
-    "crops": ["Buğday", "Arpa", "Mısır", "Ayçiçeği", "Patates"],
-    "targets": ["Toprak zararlıları", "Yaprakbiti", "Tel kurdu", "Kök kurdu"],
+    "crops": [
+      "Buğday",
+      "Arpa",
+      "Mısır",
+      "Ayçiçeği",
+      "Patates"
+    ],
+    "targets": [
+      "Toprak zararlıları",
+      "Yaprakbiti",
+      "Tel kurdu",
+      "Kök kurdu"
+    ],
     "dose": "100-200 ml/100kg tohum",
     "phi": "-",
     "description": "Erken dönem zararlı koruması sağlayan sistemik insektisit tohum ilacı.",
-    "features": ["Vigor etkisi", "Erken dönem zararlı koruması", "Kök gelişimi desteği", "Sistemik hareket"]
+    "features": [
+      "Vigor etkisi",
+      "Erken dönem zararlı koruması",
+      "Kök gelişimi desteği",
+      "Sistemik hareket"
+    ]
   },
   {
     "id": "p-021",
@@ -265,12 +555,28 @@
     "category": "Biyostimulant",
     "activeIngredient": "Deniz yosunu (Ascophyllum nodosum) ekstraktı",
     "formulation": "SL (Çözünür Konsantre)",
-    "crops": ["Buğday", "Domates", "Hıyar", "Patates", "Üzüm", "Elma"],
-    "targets": ["Stres yönetimi", "Verim artışı", "Kök gelişimi"],
+    "crops": [
+      "Buğday",
+      "Domates",
+      "Hıyar",
+      "Patates",
+      "Üzüm",
+      "Elma"
+    ],
+    "targets": [
+      "Stres yönetimi",
+      "Verim artışı",
+      "Kök gelişimi"
+    ],
     "dose": "200-300 ml/da",
     "phi": "0 gün",
     "description": "Bitkinin doğal stres toleransını artıran biyostimulant. Kök gelişimi ve besin alımını destekler.",
-    "features": ["Stres toleransı", "Kök gelişimi", "Besin alımı artışı", "Tüm bitkilerle uyumlu"]
+    "features": [
+      "Stres toleransı",
+      "Kök gelişimi",
+      "Besin alımı artışı",
+      "Tüm bitkilerle uyumlu"
+    ]
   },
   {
     "id": "p-022",
@@ -278,11 +584,26 @@
     "category": "İnsektisit",
     "activeIngredient": "Isocycloseram",
     "formulation": "SC (Süspansiyon Konsantre)",
-    "crops": ["Çeltik", "Domates", "Mısır", "Pamuk"],
-    "targets": ["Yeşilkurt (Fall armyworm)", "Pirinç sap delicisi", "Yaprak kurtları", "Emici zararlılar"],
+    "crops": [
+      "Çeltik",
+      "Domates",
+      "Mısır",
+      "Pamuk"
+    ],
+    "targets": [
+      "Yeşilkurt (Fall armyworm)",
+      "Pirinç sap delicisi",
+      "Yaprak kurtları",
+      "Emici zararlılar"
+    ],
     "dose": "10-20 ml/da",
     "phi": "7 gün",
     "description": "Yeni etki mekanizmalı insektisit. Dirençli zararlı popülasyonlarına karşı ultra düşük dozda etkili.",
-    "features": ["Yeni etki mekanizması (Grup 30)", "Ultra düşük doz", "Dirençli zararlılara etkili", "Hızlı sonuç"]
+    "features": [
+      "Yeni etki mekanizması (Grup 30)",
+      "Ultra düşük doz",
+      "Dirençli zararlılara etkili",
+      "Hızlı sonuç"
+    ]
   }
 ]
